@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog.luigiminardi.com/sitemap.xml
