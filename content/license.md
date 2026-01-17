@@ -1,4 +1,10 @@
-# Luigi Minardi License 1.0.0
++++
+title="Luigi Minardi License 1.0.0"
+showDate = false
+showAuthor = false
+showReadingTime = false
+showWordCount = false
++++
 
 ## Acceptance
 
