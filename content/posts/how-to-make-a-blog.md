@@ -2,9 +2,9 @@
 title="How to make a blog"
 description="How can you make a blog just like this one using Hugo and Congo"
 summary="How can you make a blog just like this one using Hugo and Congo"
-date="2026-02-17"
-tags=["any", "hugo", "congo", "markdown"]
-categories=["programming"]
+date="2026-02-17T22:30:01Z"
+tags=["hugo", "congo", "markdown"]
+categories=["any", "tutorial", "programming"]
 +++
 
 This is an opinionated resume of [Congo Docs](https://jpanther.github.io/congo/docs/)

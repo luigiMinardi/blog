@@ -2,9 +2,8 @@
 title="The Blog"
 description="Why I did it, and what you should expect to see here."
 summary="This is my little corner of the internet, welcome! Now lets go to why I did it, and what you should expect to see here."
-date="2026-02-17"
-tags=["any"]
-categories=["other"]
+date="2026-02-17T22:30:00Z"
+categories=["any", "other"]
 +++
 
 This is my little corner of the internet, welcome!
