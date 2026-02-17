@@ -1,13 +1,27 @@
 baseURL = 'https://blog.luigiminardi.com/'
-title = "Luigi Minardi Blog"
+title = "Luigi Minardi"
 
 defaultContentLanguage="en"
 
 enableRobotsTXT=true
-summaryLength=0
+summaryLength=1
 
 [pagination]
   pagerSize = 10
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[privacy]
+  [privacy.vimeo]
+    enableDNT = true
+  [privacy.x]
+    enableDNT = true
+  [privacy.youTube]
+    privacyEnhanced = true
+  [privacy.googleAnalytics]
+    respectDoNotTrack = true
+
+[services]
+  [services.x]
+    disableInlineCSS = true

@@ -7,12 +7,13 @@ copyright = "[&copy; 2026 Luigi Minardi](/license)"
 
 [params]
     dateFormat="2 January 2006"
+    mainSections=["posts", "projects"]
 
 [params.author]
     name="Luigi Minardi"
     image = "img/me.jpeg"
     headline = "Backend Developer"
-    bio = "I'm a programmer, I use mainly Go, Python, Typescript, Javascript, and some other langs. Tech Savvy, Arch and Neovim user, keyboard enthusiast, dancer, and some other things."
+    bio = "I'm a backend developer, dancer and amateur car electromechanic. I like go, arch, neovim, techno, schranz, gabber, shuffle, JDMs and miatas. I'm also interested in drawing, fashion and other stuff."
     links = [
     #   { email = "mailto:hello@your_domain.com" },
     #   { link = "https://link-to-some-website.com/" },
