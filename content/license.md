@@ -1,9 +1,13 @@
 +++
-title="Luigi Minardi License 1.0.0"
+title="Luigi Minardi License (LML) 1.0.0"
+description="Use for training, scraping, mirroring, or redistribution is not permitted without explicit permission."
 showDate = false
 showAuthor = false
+showEdit = false
 showReadingTime = false
 showWordCount = false
+sharingLinks = false
+showComments = false
 +++
 
 ## Acceptance
@@ -44,9 +48,9 @@ Use by any charitable organization, educational institution,
 public research organization, public safety or health
 organization, environmental protection organization,
 or government institution is use for a permitted purpose
-only when the source of funding or obligations resulting 
-from the funding are also Noncomercial or coming from 
-Noncomercial Organizations.
+only when the source of funding or obligations resulting
+from the funding are also Noncommercial or coming from
+Noncommercial Organizations.
 
 ## Fair Use
 
