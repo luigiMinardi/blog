@@ -69,7 +69,7 @@ blog.
 
 {{< alert "_" >}}
 If you want to know how to do a blog like this check [Congo](https://jpanther.github.io/congo/),
-their docs are pretty good or [my blog post about it](/posts/how-to-make-a-blog).
+their docs are pretty good or [my blog post about it](/posts/dev/how-to-make-a-blog).
 {{</ alert >}}
 
 > Special thanks to my friend Mari and my Mom that helped me with the writing.
