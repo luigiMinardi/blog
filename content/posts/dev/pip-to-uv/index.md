@@ -179,6 +179,18 @@ Inside Docker `uv` is also used
 docker compose exec web uv run manage.py migrate
 ```
 
+#### Using extra environment variables in docker
+
+To test something pytest is needed which is an environment only dependency so
+the environment variable `UV_NO_DEV=0` is needed as an `e` flag when entering
+the container to tell uv to use the dev dependencies (pytest). If you want to
+pass more variables like which DB to use for test in an example where you have
+different DB engines you can just add more env variables to docker through the
+`e` flag.
+```sh
+docker compose exec -e TEST_DB_ENGINE=sqlite -e UV_NO_DEV=0 web uv run pytest
+```
+
 ### Pip Migration
 
 If you used the old `requirements.txt` and want to use `uv` it is recommended to
