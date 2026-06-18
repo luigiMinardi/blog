@@ -1,18 +1,9 @@
+If you want to know how I did this blog and do something similar
+I have [a blog post](https://blog.luigiminardi.com/posts/dev/how-to-make-a-blog/)
+showing exactly that.
 
-# Adding a theme:
+# THIS IS NOT AN OPEN SOURCE PROJECT, THIS IS A SOURCE AVAILABLE PROJECT UNDER A CUSTOM LICENSE.
 
-
-> This is already a Hugo repo so no need for the init that you may see in some tutorials
-> ```sh 
-> hugo mod init github.com/<username>/<repo-name>
-> ```
-
-Add theme to imports in the `hugo.toml`:
-```toml
-[[module.imports]]
-    path='github.com/jpanther/congo/v2'
-```
-Start server:
-```sh
-hugo server
-```
+I would like to thank [goHugo](https://gohugo.io) for being an amazing framework
+and JPanther for his cool [Congo](https://github.com/jpanther/congo) theme that
+makes Hugo a lot easier to use.
