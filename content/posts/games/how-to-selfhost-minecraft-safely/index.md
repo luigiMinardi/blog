@@ -289,9 +289,9 @@ Create a new tmuxinator session
 tmuxinator new minecraft
 ```
 
-Copy my configuration into it, remember to change the `server` `panes` `java`
-command to the same you use to launch your server and the `root` to the path
-to your server files.
+Copy my configuration into it, remember to change the `server` > `panes` >
+`java` command to the same you use to launch your server and the `root` to the
+path to your server files.
 
 If you use `bat` you can replace `tail` on the `on_project_stop` with
 `bat /tmp/minecraft-pane.log -r -30:`.
