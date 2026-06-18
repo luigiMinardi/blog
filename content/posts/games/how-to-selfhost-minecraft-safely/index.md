@@ -1,5 +1,4 @@
 +++
-draft = true
 title="How to self-host minecraft safely with port forwarding"
 description="How to self host a minecraft server using proton vpn and fabric."
 summary="Setting up a minecraft server without exposing your machine to the internet by port forwarding."
