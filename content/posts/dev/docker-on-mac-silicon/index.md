@@ -2,7 +2,7 @@
 title="How to use Docker on Mac Silicon"
 description="How to use docker CLI on mac silicon without Docker Desktop."
 summary="Setting up docker in mac without Docker Desktop nor headaches."
-date="2026-02-04"
+date="2026-06-18"
 tags=["docker", "docker compose", "docker buildx", "mac", "colima"]
 categories=["any", "tutorial", "programming", "devops"]
 +++
