@@ -8,6 +8,7 @@ copyright = "[&copy; 2026 Luigi Minardi](/license)"
 [params]
     dateFormat="2 January 2006"
     mainSections=["posts", "projects"]
+    sharingLinksTitle = "Share"
 
 [params.author]
     name="Luigi Minardi"
