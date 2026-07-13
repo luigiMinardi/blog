@@ -1,0 +1,29 @@
+languageCode = "es"
+languageName = "Español"
+languageDirection = "ltr"
+weight = 3
+
+
+copyright = "[&copy; 2026 Luigi Minardi](/license)"
+
+[params]
+    dateFormat="2 January 2006"
+    mainSections=["posts", "projects"]
+    sharingLinksTitle = "Compartir"
+
+[params.author]
+    name="Luigi Minardi"
+    image = "img/me.jpeg"
+    headline = "Desarollador Backend"
+    bio = "Soy un desarollador backend, bailarin y electromecanico amador. Me gusta go, arch, neovim, techno, schranz, gabber, shuffle, JDMs y miatas. Tambien me gusta dibujar, fashion, y otras cosas."
+    links = [
+    #   { email = "mailto:hello@your_domain.com" },
+    #   { link = "https://link-to-some-website.com/" },
+        { github = "https://github.com/luigiminardi" },
+        { codeberg = "https://codeberg.org/luigiminardi" },
+        { kofi = "https://ko-fi.com/luigiminardi" },
+        { linkedin = "https://linkedin.com/in/luigiminardi" },
+        { stack-overflow = "https://stackoverflow.com/users/13636612/luigi-minardi" },
+        { x-twitter = "https://twitter.com/luigiminardi_" },
+    #   { youtube = "https://youtube.com/username" },
+    ]
