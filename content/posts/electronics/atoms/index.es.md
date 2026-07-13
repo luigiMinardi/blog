@@ -58,7 +58,7 @@ posible asi teniendo un mayor equilibrio. El conjunto del enlace electronico
 entre dos o mas atomos de un mismo elemento quimico o de elementos distintos se
 denomina `molecula`.
 
-### Electrones de valencia
+## Electrones de valencia
 
 Los electrones de la ultima capa orbital se llaman `electrones de valencia` y
 son los unicos que intervienen en los enlaces quimicos y suministran la
