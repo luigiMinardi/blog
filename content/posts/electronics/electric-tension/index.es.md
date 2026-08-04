@@ -2,7 +2,7 @@
 title="Tension Electrica"
 description=""
 summary=""
-date="2026-08-04T21:30:00Z"
+date="2026-08-04T19:00:00Z"
 tags=["atomos", "corriente"]
 categories=["todo", "electronica"]
 +++
