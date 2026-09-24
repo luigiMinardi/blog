@@ -4,7 +4,7 @@ description=""
 summary=""
 date="2026-07-13T23:00:00Z"
 tags=["atomos", "corriente"]
-categories=["todo", "electronica"]
+categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
 
 Corriente electrica es el desplazamiento de electrones a lo largo de un material

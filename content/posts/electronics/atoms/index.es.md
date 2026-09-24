@@ -4,7 +4,7 @@ description="Como funciona un atomo, que es la capa de valencia y como se produc
 summary="Como funciona un atomo, que es la capa de valencia y como se produce corriente electrica"
 date="2026-07-13T00:00:00Z"
 tags=["atomos", "corriente"]
-categories=["todo", "electronica"]
+categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
 
 La materia esta formada por particulas formadas por moleculas formadas por atomos.

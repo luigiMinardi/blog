@@ -4,7 +4,7 @@ description=""
 summary=""
 date="2026-08-05T10:40:00Z"
 tags=["atomos", "corriente"]
-categories=["todo", "electronica"]
+categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
 
 Se denomina caida de tension en un conductor o componente la diferenca de

@@ -4,7 +4,7 @@ description=""
 summary=""
 date="2026-08-04T19:00:00Z"
 tags=["atomos", "corriente"]
-categories=["todo", "electronica"]
+categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
 
 Se entiende por tension electrica la diferencia de potencial electrico que

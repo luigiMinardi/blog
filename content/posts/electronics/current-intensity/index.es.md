@@ -4,7 +4,7 @@ description=""
 summary=""
 date="2026-08-04T17:13:00Z"
 tags=["atomos", "corriente"]
-categories=["todo", "electronica"]
+categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
 
 La cantidad de electrones que fluyen por un circuito electrico en un tiempo
