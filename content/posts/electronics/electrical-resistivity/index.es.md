@@ -2,7 +2,7 @@
 title="Resistividad"
 description=""
 summary=""
-date="2026-09-24T10:01:00Z"
+date="2026-10-01T22:48:00+02:00"
 tags=["atomos", "corriente"]
 categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
