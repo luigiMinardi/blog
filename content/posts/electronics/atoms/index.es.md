@@ -3,7 +3,7 @@ title="Estructura atomica"
 description="Como funciona un atomo, que es la capa de valencia y como se produce corriente electrica"
 summary="Como funciona un atomo, que es la capa de valencia y como se produce corriente electrica"
 date="2026-07-13T00:00:00Z"
-tags=["atomos", "corriente"]
+tags=["atomos", "corriente", "to-review"]
 categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
 

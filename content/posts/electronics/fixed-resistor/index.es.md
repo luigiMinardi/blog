@@ -3,7 +3,7 @@ title="Resistencias fijas"
 description=""
 summary=""
 date="2026-10-02T16:22:00+02:00"
-tags=["atomos", "corriente"]
+tags=["atomos", "corriente", "to-review"]
 categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
 

@@ -3,7 +3,7 @@ title="Resistencia"
 description=""
 summary=""
 date="2026-09-24T10:01:00Z"
-tags=["atomos", "corriente"]
+tags=["atomos", "corriente", "to-review"]
 categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
 

@@ -3,7 +3,7 @@ title="Tension Electrica"
 description=""
 summary=""
 date="2026-08-04T19:00:00Z"
-tags=["atomos", "corriente"]
+tags=["atomos", "corriente", "to-review"]
 categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
 

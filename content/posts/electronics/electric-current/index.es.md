@@ -3,7 +3,7 @@ title="Corriente electrica"
 description=""
 summary=""
 date="2026-07-13T23:00:00Z"
-tags=["atomos", "corriente"]
+tags=["atomos", "corriente", "to-review"]
 categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
 

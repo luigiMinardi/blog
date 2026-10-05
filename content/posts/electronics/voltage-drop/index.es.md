@@ -3,7 +3,7 @@ title="Caida de tension"
 description=""
 summary=""
 date="2026-08-05T10:40:00Z"
-tags=["atomos", "corriente"]
+tags=["atomos", "corriente", "to-review"]
 categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
 

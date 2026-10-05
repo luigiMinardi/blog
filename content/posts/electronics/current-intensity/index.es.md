@@ -3,7 +3,7 @@ title="Intensidad de Corriente"
 description=""
 summary=""
 date="2026-08-04T17:13:00Z"
-tags=["atomos", "corriente"]
+tags=["atomos", "corriente", "to-review"]
 categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
 
