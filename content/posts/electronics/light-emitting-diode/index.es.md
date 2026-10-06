@@ -2,7 +2,7 @@
 title="Diodo LED"
 description=""
 summary=""
-date="2026-10-06T18:17:00+02:00"
+date="2026-10-06T20:37:00+02:00"
 tags=["atomos", "corriente", "to-review"]
 categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
