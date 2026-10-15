@@ -145,14 +145,18 @@ Para diagnosticar: multímetro (alimentación, masa, resistencia), osciloscopio 
 | EGR | Posición válvula | Potenciómetro o Hall | 3–5 | 0,5–4,5 V | Humo negro, NOx |
 | Lambda | Oxígeno en escape | Zirconio / titanio / banda ancha | 1–6 | 0,1–0,9 V | Consumo, emisiones |
 
-# Preguntas para autoevaluarte:
-1. ¿Por qué se induce alta tensión en el secundario al abrir los platinos y no al cerrarlos?
-2. ¿Qué función tiene el condensador y qué pasa si falla?
-3. ¿Qué diferencia hay entre el avance centrífugo y el de vacío?
-4. ¿Qué es la chispa perdida en un DIS?
-5. ¿Cómo distingues un CKP inductivo de uno Hall por los cables y la señal?
-6. ¿Qué diferencia hay entre medir masa de aire (MAF) y presión (MAP)?
-7. ¿Qué hace la ECU cuando el sensor de picado detecta detonación?
-8. ¿Por qué el pedal electrónico lleva dos pistas?
-9. Un NTC marca −40 °C en diagnosis: ¿qué avería buscas?
-10. ¿Para qué sirve la sonda lambda posterior al catalizador?
+## Preguntas para autoevaluarte
+1. ¿Por qué se induce alta tensión en el secundario al abrir los platinos y no al cerrarlos?  
+2. ¿Qué función tiene el condensador y qué pasa si falla?  
+3. ¿Qué diferencia hay entre el avance centrífugo y el de vacío?  
+4. ¿Qué es la chispa perdida en un DIS?  
+5. ¿Cómo distingues un CKP inductivo de uno Hall por los cables y la señal?  
+6. ¿Qué diferencia hay entre medir masa de aire (MAF) y presión (MAP)?  
+7. ¿Qué hace la ECU cuando el sensor de picado detecta detonación?  
+8. ¿Por qué el pedal electrónico lleva dos pistas?  
+9. Un NTC marca −40 °C en diagnosis: ¿qué avería buscas?  
+10. ¿Para qué sirve la sonda lambda posterior al catalizador?  
+
+# Texto Original
+
+https://claude.ai/artifact/7rey8ihC5GjufA9RYehZNm?sk=SCWnDpCVZOnNiGtBlOqqNQ#9b882542-5ea2.mkyhwc0bw1s.62
