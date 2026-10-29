@@ -7,7 +7,7 @@ tags=["atomos", "corriente", "to-review"]
 categories=["todo", "electronica", "fundamentos de la electronica"]
 +++
 
-Las resistnecias LDR, tambien conocidas como fotorresistores, celulas
+Las resistencias LDR, tambien conocidas como fotorresistores, celulas
 fotoconductoras o celulas fotoelectricas, son resistencias cuyo valor ohmico
 varia con la intensidad de la radiacion luminica que reciben.
 
